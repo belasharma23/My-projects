@@ -1,0 +1,209 @@
+body
+{
+margin:0px;
+padding:0px;
+font-size:14px;
+font-family: 'Poppins', sans-serif;
+}
+ul 
+{
+padding:0px;	
+}
+li
+{
+	list-style:none;
+}
+a
+{
+	text-decoration:none;
+	color:#000;
+}
+a:hover, a:focus, a:active
+{
+	outline:0px;
+}
+img
+{
+	max-width:100%;
+}
+h1, h2, h3, h4, h5, h6
+{
+	color:#000;
+}
+p 
+{
+	color:#333;
+}
+
+.header
+{
+	background:#fff;
+	line-height:80px;
+}
+.menu
+{
+	float:right;
+}
+.menu li
+{
+	float:left;
+}
+.menu li a
+{
+	color:#000;
+	font-size:16px;
+	font-weight:500;
+	padding-left:25px;
+	
+}
+li.trial a {
+    background: #05c6ff;
+    padding: 10px 15px;
+    margin-left: 25px;
+    color: #fff;
+}
+.banner
+{
+	padding:40px 0px;
+}
+.banner h1
+{
+	font-size:45px;
+	font-weight:600;
+	margin-bottom:30px;
+	margin-top:50px;
+}
+.banner p
+{
+	font-size:22px;
+	color:#000;
+	margin-bottom:50px;
+}
+.get-start
+{
+	background:#05c6ff;
+	display:block;
+	font-size:24px;
+	padding:10px;
+	text-align:center;
+	color:#fff;
+	width:290px;
+	border-radius:50px;
+}
+.brands
+{
+	background:#f1f1f1;
+}
+
+.about
+{
+background-color: #f1f1f1;
+}
+.botton .btn-btn-success
+{
+	background:#05c6ff;
+	display:block;
+	font-size:24px;
+	padding:1px;
+	text-align:center;
+	color:#fff;
+	width:80px;
+
+}
+.botton .btn-btn-success:hover 
+{
+      background: #fff;
+      color: #000;
+ }
+ .brands h2
+{
+	font-size:45px;
+	font-weight:600;
+	margin-top: 35px;
+	margin-bottom: 30px;
+}
+.brands p
+{
+	font-size:21px;
+	color:#000;
+	margin-bottom:10px;
+}
+.brands a
+{
+	font-size:17px;
+	color:#05c6ff;
+}
+.get-start-sec h2
+{
+	font-size:45px;
+	font-weight:600;
+	margin-top:65px;
+}
+.get-start-sec .container
+{
+	background:#f1f1f1;
+	border-radius:10px;
+}
+.get-btn
+{
+	margin-top:30px;
+	margin-bottom:0px;
+}
+.get-btn a
+{
+	width:300px;
+	padding:10px;
+	background:#05c6ff;
+	color:#fff;
+	border-radius:40px;
+	display:inline-block;
+	margin:0px 15px;
+	font-size:19px;
+}
+.request-demo
+{
+	background:#fff !important;
+	color:#000 !important;
+	box-shadow:0px 0px 5px #eee;
+}
+.request-demo:hover
+{
+	background:#05c6ff !important;
+	color:#fff !important;
+}
+.get-btn p a
+{
+	background:none;
+	padding:none;
+	color:#000;
+	font-size:17px;
+	margin-top:10px;
+}
+.footer
+{
+	padding:30px 0; 
+}
+.footer .foot-col h3
+{
+	font-size:26px;
+	font-weight:600;
+	margin-bottom:30px;
+}
+.footer .foot-col ul li a
+{
+	font-size:14px;
+	color:#000;
+	line-height:30px;
+	
+}
+.footer .foot-col ul li a:hover
+{
+	color:#05c6ff;
+}
+.foot-col {
+    float: left;
+    width: 20%;
+    padding: 0px 15px 0px 0px;
+}
+
+

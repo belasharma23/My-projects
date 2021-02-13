@@ -1,0 +1,123 @@
+body
+{
+margin:0px;
+padding:0px;
+font-size:12px;
+font-family: 'Open Sans', sans-serif;
+}
+ul 
+{
+padding:0px;	
+}
+li
+{
+	list-style:none;
+}
+a
+{
+	text-decoration:none;
+	color:green;
+}
+a:hover, a:focus, a:active
+{
+	outline:0px;
+}
+img
+{
+	max-width:100%;
+}
+h1, h2, h3, h4, h5, h6
+{
+	color:yellow;
+}
+p 
+{
+	color:red;
+}
+
+.header
+{
+	background:#eee;
+	line-height:60px;
+}
+.header h1
+{
+	color:#000;
+	
+}
+.header-content
+{
+	margin-top:25px;
+}
+.head-section
+{
+	text-align:center;
+}
+.head-section a
+{
+	display:block;
+}
+.head-section a:hover
+{
+	background:red;
+	color:#fff;
+}
+.logo img
+{
+	height:40px;
+	
+}
+.rightinfo
+{
+	float:center;
+	padding-top: 10px;
+}
+.menu
+{
+	clear:both;
+	background:black;
+}
+.menu ul li{
+	float:left;
+	text-align: center;
+}
+.menu ul li a 
+{
+	display:block;
+	padding:10px 25px;;
+	color:white;
+}
+.menu ul li a:hover
+{
+	background:grey;
+}
+.banner
+{
+	background:url(../img/slideimg3.jpeg);
+	background-size:cover;
+	padding:40px 0px;
+}
+.banner h1
+{
+	color:black;
+	margin-bottom:20px;
+}
+.banner p
+{
+	color:black;
+	font-size:18px;
+	line-height:30px;
+}
+.banner .v-more
+{
+	background:cyan;
+	font-size:12px;
+	font-weight:400;
+	color:black;
+	width:150px;
+	display:block;
+	text-align:center;
+	padding:10px 0px;
+	border-radius:20px;
+	
+}

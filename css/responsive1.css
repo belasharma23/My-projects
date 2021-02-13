@@ -1,0 +1,309 @@
+@media only screen and (max-width:1200px)
+{
+	.menu li a {
+    font-size: 14px;
+    padding-left: 18px;
+}
+li.trial a
+{
+	margin-left:18px;
+}
+.banner h1 {
+    font-size: 43px;
+    margin-bottom: 16px;
+    margin-top: 17px;
+}
+.banner p {
+    font-size: 18px;
+    margin-bottom: 32px;
+}
+.get-start {
+    font-size: 24px;
+    padding: 9px;
+    width: 254px;
+}
+}
+@media(max-width:992px)
+{
+	.menu li a {
+    font-size: 14px;
+    padding-left: 18px;}
+    .container
+	{
+		max-width:100%;
+	}
+	.banner h1 {
+    font-size: 44px;
+    margin-bottom: 16px;
+    margin-top: 17px;
+}
+    .banner p {
+    font-size: 19px;
+    margin-bottom: 32px;
+}
+    .get-start {
+    font-size: 24px;
+    padding: 9px;
+    width: 254px;
+}
+}
+@media(max-width:972px)
+{
+.banner h1 {
+    font-size: 43px;
+}
+.brands h2 {
+    font-size: 43px;
+    margin-top: 30px;
+    margin-bottom: 24px;
+}
+.brands p {
+    font-size: 19px;
+    margin-bottom: 10px;
+}
+.get-start-sec h2 {
+    font-size: 43px;
+    margin-top: 52px;
+}
+.get-start {
+    padding: 8px;
+    width: 238px;
+}
+.get-btn a {
+    width: 263px;
+}
+@media (max-width: 971px)
+{
+.banner p {
+    font-size: 18px;
+    margin-bottom: 32px;
+}
+}
+@media (max-width: 951px)
+{
+	.banner h1 {
+    font-size: 41px;
+}
+.banner p {
+    font-size: 17px;
+}
+.get-start {
+    width: 220px;
+}
+.brands h2 {
+    font-size: 41px;
+}
+.brands p {
+    font-size: 17px;
+}
+.get-start-sec h2 {
+    font-size: 41px;
+    margin-top: 47px;
+}
+}
+@media (max-width: 931px)
+{
+	.banner h1 {
+    font-size: 41px
+}
+.footer .foot-col h3 {
+    font-size: 24px;
+    margin-bottom: 27px;
+}
+}
+@media (max-width: 922px)
+{
+    .banner p {
+    font-size: 17px;
+    margin-bottom: 32px;
+}
+}
+@media (max-width: 909px)
+{
+.banner h1 {
+    font-size: 40px;
+}
+.get-btn a {
+    width: 230px;
+}
+}
+@media(max-width: 889px)
+{
+    .banner h1 {
+    font-size: 36px;
+}
+.banner p {
+    font-size: 15px;
+}
+.get-start {
+    width: 209px;
+    padding: 7px;
+}
+.brands h2 {
+    font-size: 36px;
+}
+.brands p {
+    font-size: 15px;
+}
+.get-start-sec h2 {
+    font-size: 38px;
+}
+.footer .foot-col h3 {
+    font-size: 22px;
+}
+.footer .foot-col ul li a {
+    font-size: 13px;
+}
+}
+@media(max-width: 874px)
+{
+
+}
+
+@media(max-width: 861px)
+{
+.menu li a {
+    font-size: 13px;
+    padding-left: 17px;
+}
+.get-btn a {
+    width: 208px;
+}
+.brands a {
+    font-size: 15px;
+}
+@media(max-width: 805px)
+{
+	.menu li a{
+		padding-left: 16px;
+	}
+}
+@media(max-width: 794px)
+{
+.menu li a {
+    padding-left: 15px;
+}
+}
+@media(max-width: 789px)
+{
+	.menu li a {
+        font-size: 12px;
+}
+    .banner h1 {
+    font-size: 35px;
+}
+    .banner p {
+    font-size: 15px;
+}
+    .brands h2 {
+    font-size: 35px;
+}
+    .brands p {
+    font-size: 15px;
+}
+    .brands a {
+    font-size: 14px;
+}
+    .get-start-sec h2 {
+    font-size: 37px;
+}
+    .footer .foot-col h3 {
+    font-size: 22px;
+}
+    .footer .foot-col ul li a {
+    font-size: 13px;
+}
+}
+@media(max-width: 738px)
+{
+	.menu li a{
+		padding-left: 14px;
+	}
+}
+@media(max-width: 728px)
+{
+	.menu li a {
+    font-size: 11px;
+}
+.get-start {
+    font-size: 22px;
+    width: 169px;
+    padding: 5px;
+}
+}
+.banner h1 {
+    font-size: 32px;
+}
+.banner p {
+    font-size: 14px;
+}
+.brands h2 {
+    font-size: 32px;
+}
+    .brands p {
+    font-size: 14px;
+}
+    .brands a {
+    font-size: 12px;
+}
+.get-start-sec h2 {
+    font-size: 36px;
+}
+.get-btn a {
+    width: 193px;
+    font-size: 16px;
+}
+}
+@media(max-width: 682px)
+{
+	.menu li a {
+    padding-left: 13px;
+}
+.footer .foot-col h3 {
+    font-size: 18px;
+    font-size: 12px;
+}
+}
+@media(max-width: 671px)
+{ 
+	.menu li a {
+    padding-left: 12px;
+}
+.banner h1 {
+    font-size: 28px;
+}
+.banner p 
+{
+    font-size: 13px;
+}
+.get-start {
+    font-size: 19px;
+    width: 146px;
+    padding: 4px;
+}
+.brands h2 {
+    font-size: 28px;
+}
+    .brands p {
+    font-size: 13px;
+}
+    .brands a {
+    font-size: 11px;
+}
+.get-start-sec h2 {
+    font-size: 33px;
+}
+.get-btn a {
+    width: 193px;
+    font-size: 15px;
+}
+.banner {
+    padding: 26px 0px;
+}
+}
+@media(max-width: 661px)
+{
+    .menu li a {
+    font-size: 10px;
+}
+}

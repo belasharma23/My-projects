@@ -1,0 +1,71 @@
+<html>
+<head>
+  <script>
+  	function calculator(){
+			
+
+var input1 = document.getElementById('input1').value;
+var input2 = document.getElementById('input2').value;
+var operator = document.getElementById('operator').value;
+if(operator === '+'){
+
+document.getElementById(
+'result',
+).innerHTML = parseInt(input1)+parseInt(input2);
+}
+if(operator === '-'){
+
+document.getElementById(
+'result',
+).innerHTML = parseInt(input1)-parseInt(input2);
+}
+if(operator === '*'){
+
+document.getElementById(
+'result',
+).innerHTML = parseInt(input1)*parseInt(input2);
+}
+if(operator === '/'){
+
+document.getElementById(
+'result',
+).innerHTML = parseInt(input1)/parseInt(input2);
+}
+
+}
+</script>
+  <link href="form2.css" rel="stylesheet">
+</head>
+<body>
+	<h1><b><i>Calculator</i></b></h1>
+  <div class="container">
+    <div class="row">
+    	<form method="post">
+    	 
+      <p><b>Enter 1st Value:</b><br><br> <input type="text" id="input1" title="0-1" size="65"
+          placeholder="1st value"  /></p>
+      <br />
+      <p><b>Enter 2nd Value:</b><br><br> <input type="number" id="input2" title="0-1" size="65" placeholder="2nd value"  /></p>
+      <br />
+      <p><b>Choose operator:</b><br><br>
+  <select id="operator" name="operator">
+   <option selected disabled>operator</option> 
+  <option value="+">+</option>
+  <option value="-">-</option>
+  <option value="*">*</option>
+  <option value="/">/</option>
+  </select>
+</p>
+Result<div id="result"></div>
+        
+        <button class="button button2" type="reset">Reset</button>
+     
+      <button class="button button1" type="button" onclick="calculator()">Submit</button>
+      <div id='show'></div>
+
+  </form>
+  </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,82 @@
+@media only screen and (max-width:1200px)
+{
+	.menu li a {
+    font-size: 14px;
+    padding-left: 18px;
+}
+li.trial a
+{
+	margin-left:18px;
+}
+}
+@media only screen and (max-width:1024px)
+{
+	.banner h1
+	{
+		font-size:39px;
+		margin-top: 14px;
+	}
+	.banner {
+    padding: 20px 0px;
+}
+	
+.get-start-sec h2
+{
+	font-size:39px;
+}
+}
+
+@media only screen and (max-width:992px)
+{
+	.container
+	{
+		max-width:100%;
+	}
+}
+
+@media only screen and (max-width:910px)
+{
+	.menu li a {
+    padding-left: 14px;
+}
+li.trial a {
+    margin-left: 14px;
+}
+li.trial a
+{
+	padding:8px 10px;
+}
+}
+@media only screen and (max-width:819px)
+{
+	.menu li a{
+		padding-left: 13px;
+	}
+}
+@media only screen and (max-width:808px)
+{
+	.menu li a{
+		padding-left: 12px;
+	}
+}
+@media only screen and (max-width:797px)
+{
+	.menu li a{
+		padding-left: 11px;
+	}
+	.brands p {
+    font-size: 15px;
+    color: #000;
+    margin-bottom: 15px;
+}
+    .brands h2 {
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+}
+@media only screen and (max-width:787px)
+
+
+

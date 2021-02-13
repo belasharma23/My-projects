@@ -1,0 +1,252 @@
+body
+{
+margin:0px;
+padding:0px;
+font-size:12px;
+font-family: 'Open Sans', sans-serif;
+}
+ul 
+{
+padding:0px;	
+}
+li
+{
+	list-style:none;
+}
+a
+{
+	text-decoration:none;
+	color:white;
+}
+a:hover, a:focus, a:active
+{
+	outline:0px;
+}
+img
+{
+	max-width:100%;
+}
+h1, h2, h3, h4, h5, h6
+{
+	color:#000;
+}
+p 
+{
+	color:#333;
+}
+
+.header
+{
+	background:#eee;
+	line-height:60px;
+}
+.header h1
+{
+	color:#000;
+	
+}
+.header-content
+{
+	margin-top:25px;
+}
+.head-section
+{
+	text-align:center;
+}
+.head-section a
+{
+	display:block;
+}
+.head-section a:hover
+{
+	background:red;
+	color:#fff;
+}
+.logo img
+{
+	height:40px;
+	
+}
+.rightinfo
+{
+	float:center;
+	padding-top: 10px;
+}
+.search
+{
+  overflow: hidden;
+  background-color: gray;
+  padding:10px 25px;
+  float: left;
+  text-align: center;
+}
+.search a:hover {
+  background-color: gray;
+  color: gray;
+}
+.search a.active {
+  background-color: gray;
+  color: gray;
+}
+.menu
+{
+	clear:both;
+	background:gray;
+}
+.menu ul li{
+	float:left;
+	text-align: center;
+}
+.menu ul li a 
+{
+	display:block;
+	padding:10px 25px;
+	color:black;
+}
+.menu ul li a:hover
+{
+	background:white;
+}
+.banner
+{
+	background:url(../img/MSoffice1.jpg);
+	background-size:100%;
+	padding:40px 0px;
+}
+.banner h1
+{
+	color:white;
+	margin-bottom:20px;
+}
+.banner p
+{
+	color:white;
+	font-size:18px;
+	line-height:30px;
+}
+.banner .v-more
+{
+	background:gray;
+	font-size:12px;
+	font-weight:400;
+	color:black;
+	width:150px;
+	display:block;
+	text-align:center;
+	padding:10px 0px;
+	border-radius:20px;
+	
+}
+.about-section
+{
+	background:url(../img/about.jpg);
+	background-size:80%;
+	padding:40px 0px;
+}
+.about-section h1
+{
+	color:black;
+	margin-bottom:20px;
+}
+.about-section p
+{
+	color:white;
+	font-size:18px;
+	line-height:30px;
+}
+.about-section .v-more
+{
+	background:gray;
+	font-size:12px;
+	font-weight:400;
+	color:black;
+	width:150px;
+	display:block;
+	text-align:center;
+	padding:10px 0px;
+	border-radius:20px;
+	
+}
+.business-section
+{
+	padding: 40px 0px;
+}
+.m1 img
+{
+	width: 100%;
+}
+.m2 img
+{
+	width: 100%;
+}
+.m3 img
+{
+	width: 100%;
+}
+.m4 img
+{
+	width: 100%;
+}
+.business-section h5
+{
+	color:black;
+	margin-bottom:10px;
+}
+.busines-section p
+{
+color:black;
+	font-size:12px;
+	line-height:30px;
+}
+.business-section .v-more
+{
+	
+	font-size:13px;
+	font-weight:400;
+	color:#1e81b0;
+	width:150px;
+	display:block;
+	text-align:center;
+	padding:5px 0px;
+	border-radius:20px;
+	
+	
+	
+}
+.navbar {
+  background-color:gray;
+  overflow: hidden;
+  position:fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 5px 20px;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.navbar a:hover {
+  background-color:white;
+}
+
+.navbar a.active {
+  color: black;
+}
+footer {
+  text-align: left;
+  padding: 63px;
+  background-color:gray;
+  color: white;
+  float:left;
+}
+.footer-bottom 
+{
+	text-align: left;
+
+}
